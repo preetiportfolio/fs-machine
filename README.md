@@ -29,5 +29,5 @@ fs-machine  requires [Node.js](https://nodejs.org/) v10+ to run.
 Install the package using npm.
 
 ```sh
-npm install fs-machine
+npm install fs-machine-ts-lib
 ```
